@@ -1,0 +1,4 @@
+#macro {\eOP} {#read ensimud/zephir.tin;#session ensimud[Zephir] ensimud.net 4500;Zephir}
+#macro {\eOQ} {#read ensimud/siryus.tin;#session ensimud[Siryus] ensimud.net 4500;Siryus}
+#macro {\eOR} {#read ensimud/shiru.tin;#session ensimud[Shiru] ensimud.net 4500;Shiru}
+#macro {\eOS} {#read ensimud/suki.tin;#session ensimud[Suki] ensimud.net 4500;Suki}
